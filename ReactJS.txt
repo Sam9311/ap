@@ -1,0 +1,46 @@
+REACT JS:
+
+component based front end library.
+it can be used to create SPA single page application and MPA Multipage apps
+
+>>UI to improve the speed of apps
+>> It uses virtual DOM(Document Object Model) 
+>> JavaScript virtual DOM is faster than the traditional use
+>> npm install create-react-app is a tool for better developing envronment and no need to build all from scratch
+>> install nodejs, npm, react
+
+>> react will mount the app in index.html by default..this div has id="root"
+
+>> src has App.js, App.css, index.js
+App.js renders everything on the react page
+
+>> package.json and package-lock.json
+
+>>React Features: JSX is javascript extension with the html
+it is also known as XML like syntax
+
+>> React app has multiple components which are addedin App.js which further renders it on index.html
+
+>> It has one way data binding --> better performance no additional requirements
+
+>> The changes are re-rendered in virtual DOM and the origial page only renders the components which are actually changed
+
+>> Simple to use and learn
+
+>> ADV: easy to develop, faster than others, reusable components, It is SEO(Search Engine Optimisation) friendly, 
+
+>> Dis: pace deflects learning, poor documentation,
+ need help of other tools for connections, JSX is a barrier,
+
+>> ReactJS is used for developing web based apps and ReactNative is used to develop mobile apps UI
+
+>> We can give the attributes in return() html components as 
+String literals ex. <h1 name="nm"></h1>
+can be given as expressions using {}: ex.<h1 Style={mystyle}>abc</h1>
+
+>> Types of React Component: functional component, Class COmponent
+
+>> 
+ 
+
+>> 
